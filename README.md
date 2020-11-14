@@ -11,5 +11,16 @@ This repositry contains all Development projects this helps the viewer to narrow
 It has three page Home - which tells about the company, Features Which givers some stats about the company, Docs - which has documentation on how to use the website.
 - The website is up and running [here](https://hungry-kalam-255f5c.netlify.app/index.html)
 
+## [Whatsapp Clone](https://github.com/pratiktiwari1212/Whatsapp-clone-MERN)
+- My efforts on making an application close to whatsapp that allow realtime text transfer easily.
+
+## Tech Stack 
+- M - MongoDb
+- E - Express
+- R - React
+- N - Node
+
+## Real-time updation:
+### Pusher 
 
 ## Working on more projects. Coming Soon...
