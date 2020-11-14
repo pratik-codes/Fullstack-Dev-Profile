@@ -13,7 +13,8 @@ It has three page Home - which tells about the company, Features Which givers so
 
 ## [Whatsapp Clone](https://github.com/pratiktiwari1212/Whatsapp-clone-MERN)
 - My efforts on making an application close to whatsapp that allow realtime text transfer easily.
-## Tech Stack - MERN
+- Tech Stack - MERN
+- Real time updation - Pusher
 
 
 ## Working on more projects. Coming Soon...
