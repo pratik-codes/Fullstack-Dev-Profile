@@ -6,6 +6,7 @@ This repositry contains all Development projects this helps the viewer to narrow
 - Following content shows which tech stack is used for the app.
 - Frontend: Html / CSS /Vanilla Javascript
 - backend: Node.js / Express.js / MongoDB 
+- The website is up and running [here](https://nirvana-by-pratik.herokuapp.com/)
 
 ## [Loruki](https://github.com/pratiktiwari1212/Loruki-website/tree/master)
 - What is Loruki?
