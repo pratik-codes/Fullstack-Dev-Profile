@@ -1,7 +1,7 @@
 # Fullstack_Dev_Profile 👨🏽‍💻
 This repositry contains all Development projects this helps the viewer to narrow down the projects by technology and to look at my most recent work.
 
-## [Ecommerce Website - MERN](https://github.com/pratiktiwari1212/Ecommerce-website-MERN-Rajsolutions/blob/main/README.md)
+## [Ecommerce Website - MERN](https://github.com/pratiktiwari1212/Ecommerce-website-MERN-Rajsolutions/)
 An Real-time Scallable Ecommerce website made with React /  React-Router / Redux / Express.js / Node.js / MongoDB
 ### Functionalities of the Wesbite:
 - Real time payment with Paypal or Debit / Credit cards.
