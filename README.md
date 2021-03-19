@@ -4,8 +4,9 @@ This repositry contains all Development projects this helps the viewer to narrow
 ## [NestJS_TYPESCRIPT_RESTFUL_API](https://github.com/pratiktiwari1212/NestJS_TYPESCRIPT_RESTFUL_API)
 - Creating a Restful API in Node.js with Nest.js, typescript.
 - API's that has all CRUD operations.
-### Features to be added soon..
 - Validation and Error handling.
+### Features to be added soon..
+- Using postgress Server through TypeORM.
 - Authorization and Authentication(JWT/PASSPORT).
 - Deployment on AWS.
 
