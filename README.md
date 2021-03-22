@@ -5,9 +5,9 @@ This repositry contains all Development projects this helps the viewer to narrow
 - Creating a Restful API in Node.js with Nest.js, typescript.
 - API's that has all CRUD operations.
 - Validation and Error handling.
-### Features to be added soon..
 - Using postgress Server through TypeORM.
 - Authorization and Authentication(JWT/PASSPORT).
+### Features to be added soon..
 - Deployment on AWS.
 
 ## [Ecommerce Website - MERN](https://github.com/pratiktiwari1212/Ecommerce-website-MERN-Rajsolutions/)
