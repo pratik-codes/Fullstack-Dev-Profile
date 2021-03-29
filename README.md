@@ -7,8 +7,7 @@ This repositry contains all Development projects this helps the viewer to narrow
 - Validation and Error handling.
 - Using postgress Server through TypeORM.
 - Authorization and Authentication(JWT/PASSPORT).
-### Features to be added soon..
-- Deployment on AWS.
+
 
 ## [Ecommerce Website - MERN](https://github.com/pratiktiwari1212/Ecommerce-website-MERN-Rajsolutions/)
 An Real-time Scallable Ecommerce website made with React /  React-Router / Redux / Express.js / Node.js / MongoDB
