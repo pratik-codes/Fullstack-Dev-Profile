@@ -1,6 +1,11 @@
 # Fullstack_Dev_Profile 👨🏽‍💻
 This repositry contains all Development projects this helps the viewer to narrow down the projects by technology and to look at my most recent work.
 
+## [DJANGO DATA VALIDATION](https://github.com/pratik-codes/Django-Data-Validation)
+- This is a Data Validation project which automates the process of validating a excel file and logs the error and problems very precisely on what the error is and at what place  the error has occured.
+- The excel file is imported and validated with a very well know library from python know as Pandas which is very well know for data wrangling, transformation and analysis.
+
+
 ## [NestJS_TYPESCRIPT_RESTFUL_API](https://github.com/pratiktiwari1212/NestJS_TYPESCRIPT_RESTFUL_API)
 - Creating a Restful API in Node.js with Nest.js, typescript.
 - API's that has all CRUD operations.
