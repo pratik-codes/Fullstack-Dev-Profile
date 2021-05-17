@@ -1,19 +1,7 @@
 # Fullstack_Dev_Profile 👨🏽‍💻
 This repositry contains all Development projects this helps the viewer to narrow down the projects by technology and to look at my most recent work.
 
-## [DJANGO DATA VALIDATION ASSIGNMENT](https://github.com/pratik-codes/Django-Data-Validation)
-- This was a assignment to be submited in the Adity Birla Group recruitment process 
-- This is a simple Restfull API for Data Validation project which automates the process of validating a excel file and logs the error and problems very precisely on what the error is and at what place  the error has occured.
-- The excel file is imported and validated with a very well know library from python know as Pandas which is very well know for data wrangling, transformation and analysis.
-
-
-## [NestJS_TYPESCRIPT_RESTFUL_API](https://github.com/pratiktiwari1212/NestJS_TYPESCRIPT_RESTFUL_API)
-- Creating a Restful API in Node.js with Nest.js, typescript.
-- API's that has all CRUD operations.
-- Validation and Error handling.
-- Using postgress Server through TypeORM.
-- Authorization and Authentication(JWT/PASSPORT).
-
+## Main Projects
 
 ## [Ecommerce Website - MERN](https://github.com/pratiktiwari1212/Ecommerce-website-MERN-Rajsolutions/)
 An Real-time Scallable Ecommerce website made with React /  React-Router / Redux / Express.js / Node.js / MongoDB
@@ -41,6 +29,24 @@ An Real-time Scallable Ecommerce website made with React /  React-Router / Redux
 - My efforts on making an application close to whatsapp that allow realtime text transfer easily.
 - Tech Stack - MERN
 - Real time updation - Pusher
+
+## Small Projects
+
+## [React Native Todo list App](https://github.com/pratik-codes/react_native_basic_todolist_app/tree/master)
+- Learning React Native.
+
+## [DJANGO Data Validation Assignment](https://github.com/pratik-codes/Django-Data-Validation)
+- This was a assignment to be submited in the Adity Birla Group recruitment process 
+- This is a simple Restfull API for Data Validation project which automates the process of validating a excel file and logs the error and problems very precisely on what the error is and at what place  the error has occured.
+- The excel file is imported and validated with a very well know library from python know as Pandas which is very well know for data wrangling, transformation and analysis.
+
+
+## [NestJS Typescript Restful API](https://github.com/pratiktiwari1212/NestJS_TYPESCRIPT_RESTFUL_API)
+- Creating a Restful API in Node.js with Nest.js, typescript.
+- API's that has all CRUD operations.
+- Validation and Error handling.
+- Using postgress Server through TypeORM.
+- Authorization and Authentication(JWT/PASSPORT).
 
 ## [Loruki](https://github.com/pratiktiwari1212/Loruki-website/tree/master)
 - What is Loruki?
