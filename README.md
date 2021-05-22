@@ -3,7 +3,7 @@ This repositry contains all Development projects this helps the viewer to narrow
 
 ## Main Projects
 
-## [Ecommerce Website - MERN](https://github.com/pratiktiwari1212/Ecommerce-website-MERN-Rajsolutions/)
+## [Ecommerce Website - MERN](https://github.com/pratiktiwari1212/Ecommerce-website-MERN-Rajsolutions/) - [Live Website](https://rajsolutions.herokuapp.com/)
 An Real-time Scallable Ecommerce website made with React /  React-Router / Redux / Express.js / Node.js / MongoDB
 ### Functionalities of the Wesbite:
 - Real time payment with Paypal or Debit / Credit cards.
@@ -18,7 +18,7 @@ An Real-time Scallable Ecommerce website made with React /  React-Router / Redux
 - Client can see there old orders and can change there accounts details  like name, email and password at website only.
 - Admin Information Sytem: This allow admin to manage order, users and products by giving the feature to edit remove and add these things.
 
-## [Nirvana](https://github.com/pratiktiwari1212/Nirvana_Meditation_App)
+## [Nirvana](https://github.com/pratiktiwari1212/Nirvana_Meditation_App) - [Live website](https://nirvana-by-pratik.herokuapp.com/)
 - Nirvana is a meditation and study app that lets you meditate and study using the awesome quality sound tracks that includes Guided meditations and ambience sounds.
 - Following content shows which tech stack is used for the app.
 - Frontend: Html / CSS /Vanilla Javascript
