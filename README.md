@@ -18,6 +18,14 @@ An Real-time Scallable Ecommerce website made with React /  React-Router / Redux
 - Client can see there old orders and can change there accounts details  like name, email and password at website only.
 - Admin Information Sytem: This allow admin to manage order, users and products by giving the feature to edit remove and add these things.
 
+## [Productively](https://github.com/pratik-codes/Productively) - [Live Website](https://productive-ly.netlify.app/)
+- Tech-stack: MRNN - MongoDB, Reactjs(Typescript), Nodejs(Nestjs-Typescript)
+- Productively is a productivity app on steroids. Which not only takes care of your productivity but other aspects learning and mental health.
+- Productively is created by taking into consideration various scientific techniques to provide users what they need nothing more nothing less.
+
+## [Personal Portfolio](https://github.com/pratik-codes/React-Portfolio) - [Live Website](https://pratikt.netlify.app/)
+- Portfolio website built with React and TailwindCSS in Typescript.
+
 ## [Nirvana](https://github.com/pratiktiwari1212/Nirvana_Meditation_App) - [Live website](https://nirvana-by-pratik.herokuapp.com/)
 - Nirvana is a meditation and study app that lets you meditate and study using the awesome quality sound tracks that includes Guided meditations and ambience sounds.
 - Following content shows which tech stack is used for the app.
